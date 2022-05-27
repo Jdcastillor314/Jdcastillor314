@@ -30,3 +30,16 @@ It's my name, I am an entrepreneur, dedicated, efficient, hardworking, and fast 
 - 💼 #opentowork
 - Freelance work? contact me,  [email](mailto:julian@domify360.com.mx)
 - 💬 If you think I can be useful or help you in any way, feel free to contact me, I am happy to help;
+<br/>
+<h2>languages and tools:</h2>  
+<br/>
+
+<code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png?raw=true"></code>
+<code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png?raw=true"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_32x32.png?raw=true"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png?raw=true"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_32x32.png?raw=true"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
