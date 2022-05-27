@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey there! <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4772uwxtokn2sginrdn7yxyc1ryht0bbnzqd8ap5q1&rid=giphy.gif&ct=s" width="25px">
 
-<!--
-**Jdcastillor314/Jdcastillor314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jdcastillo314.Jdcastillo314&left_color=blue&right_color=black)
+<a href="https://www.instagram.com/jdcastillo314/">
+  <img align="left" alt="Julian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/SSRdzPaCzg">
+  <img align="left" alt="Julian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/jdcastillo314">
+  <img align="left" alt="Julian's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jdcastillo314/">
+  <img align="left" alt="Julian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<H2> Julian David Castillo </H2>
+
+It's my name, I am an entrepreneur, dedicated, efficient, hardworking, and fast learner passionate freelance ***full stack developer*** from Mexico City. Hi-tech and Gadgets addict, My hobby is to make dreams into reality!
+
+- I have experience as Manager, and personnel management skills in the logistics industry and Government.
+- I am also an open-source enthusiast,  I love doing home & office automation and implementing IoT technologies.
+<br/>
+
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47mdlfbwj8vbacm6aeka4wzekqrqlgon51gunnwrf7&rid=giphy.gif&ct=g" width="500" height="320" />
+  
+  
+- 💼 #opentowork
+- Freelance work? contact me,  [email](mailto:julian@domify360.com.mx)
+- 💬 If you think I can be useful or help you in any way, feel free to contact me, I am happy to help;
