@@ -43,6 +43,7 @@ It's my name, I am an entrepreneur, dedicated, efficient, hardworking, and fast 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_32x32.png?raw=true"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="32" src="https://github.com/Jdcastillor314/Jdcastillor314/blob/95895564600f352867df71a5e94da91a7f829642/isc-candidate.png"></code>
 
 📈 My stats
 
